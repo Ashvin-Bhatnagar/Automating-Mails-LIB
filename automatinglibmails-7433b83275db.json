@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "automatinglibmails",
+  "private_key_id": "7433b83275dbfba6ef73e1458d4b3f0c57f0cf71",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8wOjtr1FA7n+3\nXNQGRQ+KRbdkh8wHRZcwL4s5bVKs+fK/V1vNzeAhGhC2t3QUAsIKB5VyP6Ie6BrY\n2rL1lUf6nB5Zgmwtr/or/mFqtZFxk4H7k9q1LAPXa5uleisfonnkyOTphXpB94Hy\n18f9tQRPPNvs1GV2e6MVpMhknjEayGDQeQrtT0Np6Ep5G2MYKi6sIaITGh5ENrgi\nqiUheFbzvEtn4yFAtH2suPHhKg6oxFs4gKTIojuvlWhIHJJNDCNO7FAd9Xrypyu9\npcYjHhJ1HXcMpxY1Emthj/ym4Qd2co33nUYfmjRRo9iVIkeYxh504yGJD/X5NTkk\n7AJAaHGfAgMBAAECggEAO/vmShqr7MGebsweSTvLO3r6VAVfznPMHzEMwpw+aOAp\nx6rgbt/dOUfKRfa4+d8CgSN118/nGoFSftXJh4gATuEsN+/dpwtEqpR1qu62oOxq\no2OSXn71XZFB7m2LpMsCh7VcIeYcOziH4H+4e6T6EKBbl8DL2cJiym8KjAdFvaeh\nbqwf+ohHPaKXZox9fKaHbWEPJloNBweVLcHMPGxENBK+PJN1U8bJUC0bRhVl6IXH\nOF5X0iQvZDahVZABaAxtT7o0CBwk1+5Afm7lNObmnNKosxjrrd8pC4O7y7St5sQW\n80RQZurN0btYrvd690r87p5ZLUkoUtiopcOQzml8qQKBgQD4l7VTmUdXD2s6owRk\nQ+/yHRM5ZgzNcKKnqgmTrYQXeSNwmHa0U6DnYsFHcAFo7VXrNGXdi1CMlZLSxaxc\n6FkIgfhiE209RdXZImA+XqkfItE6b6nLUe8fPDTXHZ+oCb9dfo+CqaB0Qv08X3+P\nPE2Ksb9FrHwzYD5g/uBuRTdcbQKBgQDCYL4gr1fVqfszAFAzYwITHLmQmDDCq+rw\nlQ7saLm+b6IuKzv4//SJez1nUIQV8cPFHCPrxuNb7knCPJ34mQcQq5la4XBSX5mM\nwzotXTrBTCkvxXiFGn1Sudrwo7BlhA3rC3UXiJIJKXHceqn8Q3hdj3/BHor2zOvv\nfETmUubmuwKBgQDVBDrO3gNxqLa70kDLIiQUFbIJd1b1G9VlUqFOOFt+OcGSlDLz\nps20OL1iV6n9nZIIMCgxxVVKgkkD73sZScgxMB4E/JyY6qSqoXhTOY42LgGXz2Nx\n5E3BODgXNT1AIsomdXLIBk6GEXkqKLMHrCbN+C3sqDbtV0VcnEr4crtTqQKBgDes\nY+iSsFK3bAaQmWgOfKKiwJekr5qiiRk9aFfYKxNbgBU/Nt872HukO9MioaJza8JC\nLBu1DJvhJWkn2YtBsV9Z9wOrvHMrhJxnsnsZz+FbghR3t+xPyQNvzkDMcZKx/xaK\nYpBKAqHzJ/ShgZyKaqhJmKrkp6LG0PD4I/fgWNhPAoGBAKmDw9kpMjo/3J2ef7jc\nUt+jG3N0zX0l5UTvi3/wr6aU9NZ4G4sqMCIh8/YHh6diC3IE5+SjAFbK5pYeil1x\nNDfxigCeb+9fVhfufuak7ioqzE0F0y39z47hfRt8P0xyqEZKtuFv+boCMxiM6Wr/\n8OX8aqGAtTlPNwOhaNrv95mJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "mailautomator@automatinglibmails.iam.gserviceaccount.com",
+  "client_id": "109832876416822710065",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mailautomator%40automatinglibmails.iam.gserviceaccount.com"
+}
